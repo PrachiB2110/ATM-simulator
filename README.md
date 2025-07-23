@@ -2,8 +2,6 @@
 
 A comprehensive, secure, and user-friendly desktop application built with Java that simulates the core functionalities of a real-world ATM and bank management system. This project provides a complete banking experience, from a secure, multi-step user registration process to performing various financial transactions.
 
-![Login Screen](https://i.imgur.com/your-login-screen-image-url.png) <!-- Replace with a URL to a screenshot of your login screen -->
-
 ## ✨ Features
 
 - **Secure User Authentication**: Safe login system for existing users.
